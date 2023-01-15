@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(207, 178, 134);
+}
+
+.table .btnda button{
+   /*  padding-bottom: 26px; */
+    padding: 0 0 3px 0;
+    width: 93px;
+    height: 27px;
+    font-size: 13px;
+    --bs-btn-bg: #931b1b;
+}
